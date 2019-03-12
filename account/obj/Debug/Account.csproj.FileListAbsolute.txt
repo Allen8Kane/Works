@@ -1,0 +1,11 @@
+C:\Users\Карыспаевб\source\repos\Account\Account\bin\Debug\Account.exe.config
+C:\Users\Карыспаевб\source\repos\Account\Account\bin\Debug\Account.exe
+C:\Users\Карыспаевб\source\repos\Account\Account\bin\Debug\Account.pdb
+C:\Users\Карыспаевб\source\repos\Account\Account\obj\Debug\Account.csprojAssemblyReference.cache
+C:\Users\Карыспаевб\source\repos\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\Карыспаевб\source\repos\Account\Account\obj\Debug\Account.exe
+C:\Users\Карыспаевб\source\repos\Account\Account\obj\Debug\Account.pdb
+C:\Users\Карыспаевб\source\repos\Account\Account\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Карыспаевб\source\repos\Account\Account\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Карыспаевб\source\repos\Account\Account\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Карыспаевб\source\repos\Account\Account\obj\Debug\Account.csproj.CopyComplete
